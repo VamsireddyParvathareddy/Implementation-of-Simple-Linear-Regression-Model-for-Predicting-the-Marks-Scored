@@ -17,9 +17,10 @@ To write a program to implement the simple linear regression model for predictin
 
 ## Program:
 
-#Program to implement the simple linear regression model for predicting the marks scored.
+### Program to implement the simple linear regression model for predicting the marks scored.
 
 __Developed by: Vamsi Parvatha Reddy__
+
 __RegisterNumber: 212220040110__
 
 
